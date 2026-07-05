@@ -1,0 +1,5 @@
+flask>=3.0
+flask-cors>=4.0
+numpy>=1.24
+Pillow>=10.0
+# tensorflow>=2.15  # Uncomment when using real CNN model
